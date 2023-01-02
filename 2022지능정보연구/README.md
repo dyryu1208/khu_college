@@ -1,8 +1,10 @@
 ## 2022지능정보연구
 본 리포지토리는 한국지능정보시스템학회 주관 2022년 추계학술대회 참가 및 2023년 3월 지능정보연구지에 게재 예정된 연구와 관련된 자료를 포함.
-* 참고자료 : [리뷰 유용성 관련 선행연구](https://www.notion.so/Reference-adf1eb1610b34e34825adcbf387a9670)
-<br/>
-           [XAI 관련 선행연구](https://www.notion.so/XAI-Reference-4e81a6549ccd47e9b4ae1aefb5fd25a3)
+
+## 참고자료 
+ 
+* [리뷰 유용성 관련 선행연구](https://www.notion.so/Reference-adf1eb1610b34e34825adcbf387a9670)
+* [XAI 관련 선행연구](https://www.notion.so/XAI-Reference-4e81a6549ccd47e9b4ae1aefb5fd25a3)
 
 <br/>
 <br/>
