@@ -19,13 +19,13 @@
 
 <br/>
 
-1. [ML_eda](/2023BERT_Helpfulness/codes/ML_eda.ipynb) : 
+1. [ML_eda](/2023BERT_TRI/codes/ML_eda.ipynb) : 
    머신러닝 모델 투입용 데이터 전처리 과정
 
-2. [ML_comparison](/2023BERT_Helpfulness/codes/ML_comparison.ipynb) : 전처리된 머신러닝용 데이터셋을 ML모델에 투입하여 성능 확인
+2. [ML_comparison](/2023BERT_TRI/codes/ML_comparison.ipynb) : 전처리된 머신러닝용 데이터셋을 ML모델에 투입하여 성능 확인
 
-3. [DL_comparison](/2023BERT_Helpfulness/codes/DL_comparison.ipynb) : 실험 데이터셋에 대한 딥러닝용 전처리 및 DL모델에 투입하여 성능 확인
+3. [DL_comparison](/2023BERT_TRI/codes/DL_comparison.ipynb) : 실험 데이터셋에 대한 딥러닝용 전처리 및 DL모델에 투입하여 성능 확인
 
-4. [BERT_TRI](/2023BERT_Helpfulness/codes/BERT_TRI.ipynb) : 제안 모델의 성능 확인, 제안 모델은 리뷰를 BERT로 학습한 다음 리뷰와 평점 정보에 Attention, Multiple 등 추가 Layer 학습을 통해 리뷰 유용성을 예측
+4. [BERT_TRI](/2023BERT_TRI/codes/BERT_TRI.ipynb) : 제안 모델의 성능 확인, 제안 모델은 리뷰를 BERT로 학습한 다음 리뷰와 평점 정보에 Attention, Multiple 등 추가 Layer 학습을 통해 리뷰 유용성을 예측
 
-5. [BERT_TRI_SMALL](/2023BERT_Helpfulness/codes/BERT_TRI_SMALL.ipynb) : 제안 모델의 BERT를 경량화된 버전으로 학습한 다음 성능 확인
+5. [BERT_TRI_SMALL](/2023BERT_TRI/codes/BERT_TRI_SMALL.ipynb) : 제안 모델의 BERT를 경량화된 버전으로 학습한 다음 성능 확인
