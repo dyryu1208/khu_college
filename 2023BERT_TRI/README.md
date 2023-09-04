@@ -1,5 +1,5 @@
 ## 2023BERT_TRI
-본 리포지토리는 ???게재 미정인 연구와 관련된 자료를 포함.
+본 리포지토리는 게재 미정인 연구와 관련된 자료를 포함.
 
 <br/>
 <br/>
@@ -11,13 +11,19 @@
 
 <br/>
 
-## 연구명(영문) : 미정
+## 연구명 : A BERT-based Review Helpfulness Prediction Model Utilizing Consistency of Ratings and Texts 
 
 <br/>
 
-본 연구는 E-Commerce 플랫폼 [Amazon](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews)의 Toys and Games, CDs and Vinyls 의 데이터셋을 사용하여 ML모델(SVM, RandomForest)과 DL모델(Dual-CNN, Bi-LSTM, Bi-GRU, BERT), 그리고 제안모델 BERT_TRI의 리뷰 유용성 예측 성능을 비교하였음
+### 요약 : ML모델(SVM, RandomForest)과 DL모델(Dual-CNN, Bi-LSTM, Bi-GRU, BERT), 그리고 제안모델 BERT_TRI의 리뷰 유용성 예측 성능을 비교하여 평점 및 리뷰의 일관성이 성능 향상에 미치는 영향 탐색
 
 <br/>
+
+### 데이터 : E-Commerce 플랫폼 [Amazon](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews)의 Toys and Games, CDs and Vinyls 의 데이터셋을 사용
+
+<br/>
+
+### 실험 코드
 
 1. [ML_eda](/2023BERT_TRI/codes/ML_eda.ipynb) : 
    머신러닝 모델 투입용 데이터 전처리 과정

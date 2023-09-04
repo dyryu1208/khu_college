@@ -1,5 +1,5 @@
 ## 2023CDRS
-본 리포지토리는 대한산업공학회/한국경영과학회 공동주관 2023년 춘계학술대회 참가 및 ???게재 미정인 연구와 관련된 자료를 포함.
+본 리포지토리는 대한산업공학회/한국경영과학회 공동주관 2023년 춘계학술대회 참가 및 Under Review(Electronic Commerce Research) 중인 연구와 관련된 자료를 포함.
 
 <br/>
 <br/>
@@ -10,13 +10,19 @@
 
 <br/>
 
-## 연구명(영문) : 데이터 희소성 문제 해결을 위한 Doc2Vec 기반의 교차 도메인 추천시스템 모형 개발 및 평가(미정)
+## 연구명(국문) : A Doc2Vec-based cross-domain recommendation for alleviating data sparsity problems(데이터 희소성 문제 해결을 위한 Doc2Vec 기반의 교차 도메인 추천시스템 모형 개발 및 평가)
 
 <br/>
 
-본 연구는 비즈니스 리뷰 플랫폼 Yelp.com에서 제공하는 [Yelp Open Dataset](https://www.yelp.com/dataset)을 사용해 교차 도메인 추천시스템 방법론을 제안
+### 요약 : 사용자의 정보가 희소한 도메인의 추천 성능을 향상시키기 위해 해당 사용자가 남긴 다양한 도메인 내 풍부한 정보를 결합하는 연구
 
 <br/>
+
+### 데이터 : [Yelp Open Dataset](https://www.yelp.com/dataset) 사용
+
+<br/>
+
+### 실험 코드 
 
 1. [Dataset Making](/2023CDRS/codes/yelp_make_dset.ipynb) : 교차 도메인 추천시스템을 위한 실험 데이터를 생성하는 코드
    
