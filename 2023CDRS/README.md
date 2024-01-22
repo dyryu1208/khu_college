@@ -1,5 +1,5 @@
 ## 2023CDRS
-본 리포지토리는 대한산업공학회/한국경영과학회 공동주관 2023년 춘계학술대회 참가 및 Under Review(Electronic Commerce Research) 중인 연구와 관련된 자료를 포함.
+본 리포지토리는 대한산업공학회/한국경영과학회 공동주관 2023년 춘계학술대회 참가 및 Electronic Commerce Research 심사 중(Status - Under Review)인 연구와 관련된 자료를 포함.
 
 <br/>
 <br/>
